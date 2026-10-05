@@ -576,8 +576,7 @@ O documento aborda, entre outros pontos:
 - testes;
 - trade-offs arquiteturais.
 
-## Autor
 
-**Edson Luiz Garcia Portela**
+**Edson Garcia **
 
 Desenvolvedor Backend / Full Stack
